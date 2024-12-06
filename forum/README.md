@@ -1,7 +1,7 @@
 # forum
 
 # Introduction
-Next.js를 활용하여 커뮤니티 게시ㅏㄴ 제작을 실습하였습니다.
+Next.js를 활용하여 커뮤니티 게시판 제작을 실습하였습니다.
 MongoDB Atlas를 사용하여 CRUD가능을 추가하였습니다.
 
 # Getting Started
